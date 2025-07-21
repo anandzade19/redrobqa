@@ -9,7 +9,7 @@ public class RetryLogic implements IRetryAnalyzer {
 	public boolean retry(ITestResult result) {
 		// TODO Auto-generated method stub
 		int initialcount = 0;
-		int retrycout =3;
+		int retrycout =5;
 		return false;
 	}
 
